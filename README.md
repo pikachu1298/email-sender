@@ -11,6 +11,10 @@ SHA256: 4aeb23ed3c5e7d9dd046f14e2bc498f680694bd75c861c92d38e6b70ba4bcfd3
 SHA1: 769d662fc3a9a9f66b620c525f444192c082c6b0
 
 BLAKE2sp: 7bb71390636cf9bd4bfdc8daf7120b59b81d430c107ba09eec820b2473c45cbc
+These checksums are for 2.2.2.4
+For new ones,
+First of all there would be a checksum list in description.txt for all new releases starting from the latest one which will be 3.2.0.5
+*bad, crappy versioning ensues*
 
 # IMPORTANT
  Always calculate checksums before using this software. If you download this from any other websites, and the checksums don't match, DELETE THE FILE IMMEDIATELY. IF THE FILE IS MODIFIED, AND THE CHECKSUMS DO NOT MATCH THESE CHECKSUMS. IT IS A VIRUS AND SOMEONE CRACKED IT.
