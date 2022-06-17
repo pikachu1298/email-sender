@@ -38,4 +38,8 @@ Because I was bored.
 # How do I use this software?
 The software will guide you throwghout the usage.
 
+# Changelogs and updates
+# 06/17/2022
+I have decided to stop using Microsoft Graph SDK and instead use Java EE mail library due to me being incompetent, not enough time, and me struggling with this stupid little line here: https://imgur.com/a/82LD6TI
+*sigh* i will work my best to get v3 out.
 
