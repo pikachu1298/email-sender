@@ -39,6 +39,8 @@ Because I was bored.
 The software will guide you throwghout the usage.
 
 # Changelogs and updates
+# 06/18/2022
+I just realized that JavaMail's API is deprecated, I'm going to try it anyway. Also I kept getting this error: https://imgur.com/a/5CmJo5e, and I did frame = new JFrame(); to suppress. If the API doesn't work, I'm going to try Eclipse Angus.
 # 06/17/2022
 I have decided to stop using Microsoft Graph SDK and instead use Java EE mail library due to me being incompetent, not enough time, and me struggling with this stupid little line here: https://imgur.com/a/82LD6TI
 *sigh* i will work my best to get v3 out.
