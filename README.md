@@ -39,6 +39,8 @@ Because I was bored.
 The software will guide you throwghout the usage.
 
 # Changelogs and updates
+# 06/19/2022
+I finally got all the errors fixed. but now whenever I try to open the program, it is a blank screen. I will try to fix this.
 # 06/18/2022
 I just realized that JavaMail's API is deprecated, I'm going to try it anyway. Also I kept getting this error: https://imgur.com/a/5CmJo5e, and I did frame = new JFrame(); to suppress. If the API doesn't work, I'm going to try Eclipse Angus.
 # 06/17/2022
